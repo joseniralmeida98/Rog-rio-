@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "Rodrigofaro.play.hosting", 
-    "port":27257,   
+    "ip": "josenir.aternos.me", 
+    "port":19984,   
     "version": "1.20"   
   },
   
